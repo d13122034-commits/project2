@@ -361,15 +361,15 @@ text-align: center;
 }
 .div1:hover  {
    
-   background-size: 700px;
+   background-size: 600px;
 }
 .div2:hover{
     
-   background-size: 700px;
+   background-size: 400px;
 }
 .div3:hover{
     
-   background-size: 700px;
+   background-size: 600px;
 }
 .div2{
   background: 
@@ -1107,3 +1107,4 @@ margin-top: -183px;
     animation-iteration-count: infinite; 
     animation-direction: alternate;      
 }
+
